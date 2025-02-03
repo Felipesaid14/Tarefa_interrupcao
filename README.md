@@ -4,3 +4,4 @@ Este é um projeto utilizando a placa bitdoglab, onde foi feito um contador com 
 
 VIDEO EXPLICATIVO
 
+https://drive.google.com/file/d/1_b7Rqd0wGimJAMHs8HZSmev-PWW8kPN4/view?usp=sharing
